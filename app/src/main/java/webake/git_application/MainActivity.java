@@ -8,6 +8,9 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
+    private String cadena;
+    private Boolean boo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
